@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Chandelier",
+    "description": "Elegant lighting that adds a touch of luxury to any space.",
+    "price": "₾1,450",
+    "image": "img/photo-1540932239986-30128078f3c5.avif"
+  },
+  {
+    "id": 2,
+    "name": "Leather Chair",
+    "description": "Premium leather comfort with a timeless, refined design.",
+    "price": "₾2,200",
+    "image": "img/photo-1540932428079-887d0d7a8fa5.avif"
+  },
+  {
+    "id": 3,
+    "name": "Green Sofa",
+    "description": "A bold yet cozy sofa designed to elevate modern interiors.",
+    "price": "£3,800",
+    "image": "img/photo-1590251024078-8a6d9f90b02d.avif"
+  },
+    {
+    "id": 4,
+    "name": "Minimalist Chandelier",
+    "description": "Clean lines and soft light for a modern, minimal look.",
+    "price": "₾980",
+    "image": "img/photo-1655147998996-d35069a960fe.avif"
+  },
+  {
+    "id": 5,
+    "name": "Brown Sofa",
+    "description": "Warm tones and plush comfort designed for everyday relaxation.",
+    "price": "₾3,200",
+    "image": "img/photo-1599696848652-f0ff23bc911f.avif"
+  },
+  {
+    "id": 6,
+    "name": "Yellow Sofa",
+    "description": "A vibrant statement sofa that brings energy and style.",
+    "price": "₾3,450",
+    "image": "img/photo-1683793837504-318275ff665d.avif"
+  },
+  {
+    "id": 7,
+    "name": "Big Corner Sofa",
+    "description": "Spacious and comfortable seating, perfect for modern family living.",
+    "price": "₾5,900",
+    "image": "img/photo-1564078516393-cf04bd966897.avif"
+  },
+  {
+    "id": 8,
+    "name": "Green Armchair",
+    "description": "Comfortable, stylish, and perfect for relaxing moments.",
+    "price": "₾1,850",
+    "image": "img/photo-1579656592043-a20e25a4aa4b.avif"
+  },
+  {
+    "id": 9,
+    "name": "Nightstand",
+    "description": "Compact and functional design, perfect for modern bedrooms.",
+    "price": "₾780",
+    "image": "img/photo-1532372320572-cda25653a26d.avif"
+  },
+  {
+    "id": 10,
+    "name": "Coffee Table",
+    "description": "Stylish centerpiece designed for everyday living spaces.",
+    "price": "₾1,150",
+    "image": "img/photo-1604061986761-d9d0cc41b0d1.avif"
+  },
+  {
+    "id": 11,
+    "name": "Wooden Table",
+    "description": "Solid wood craftsmanship with a timeless, natural finish.",
+    "price": "₾2,600",
+    "image": "img/photo-1721222203836-53007a112bb7.avif"
+  },
+  {
+    "id": 12,
+    "name": "Sofa Set",
+    "description": "A complete seating set designed for comfort and coordinated style.",
+    "price": "₾6,800",
+    "image": "img/photo-1646107543597-e95b90ba4081.avif"
+  }
+]
